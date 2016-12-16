@@ -1,2 +1,3 @@
-# Alarm
-##Implementation of an alarm using the basics of threads and concurrency.
+# Android Alarm App
+## API 21
+Implementación de una alarma echa en android usando los principios básicos de hilos y concurrencia.
